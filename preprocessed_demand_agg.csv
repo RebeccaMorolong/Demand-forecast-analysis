@@ -1,0 +1,61 @@
+Month,Category,Demand,Category_Apparel,Category_Electronics,Category_Grocery,Category_Home & Kitchen,Category_Toys,Month_Apr_Demand,Month_Aug_Demand,Month_Dec_Demand,Month_Feb_Demand,Month_Jan_Demand,Month_Jul_Demand,Month_Jun_Demand,Month_Mar_Demand,Month_May_Demand,Month_Nov_Demand,Month_Oct_Demand,Month_Sep_Demand
+Apr_Demand,Apparel,116146,True,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+Apr_Demand,Electronics,52148,False,True,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+Apr_Demand,Grocery,1190590,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+Apr_Demand,Home & Kitchen,24861,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False
+Apr_Demand,Toys,25497,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+Aug_Demand,Apparel,114002,True,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+Aug_Demand,Electronics,51687,False,True,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+Aug_Demand,Grocery,1187350,False,False,True,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+Aug_Demand,Home & Kitchen,24990,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False
+Aug_Demand,Toys,25692,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False
+Dec_Demand,Apparel,117272,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+Dec_Demand,Electronics,51910,False,True,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+Dec_Demand,Grocery,1200111,False,False,True,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+Dec_Demand,Home & Kitchen,24630,False,False,False,True,False,False,False,True,False,False,False,False,False,False,False,False,False
+Dec_Demand,Toys,25458,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False
+Feb_Demand,Apparel,118400,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False
+Feb_Demand,Electronics,51894,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False
+Feb_Demand,Grocery,1197877,False,False,True,False,False,False,False,False,True,False,False,False,False,False,False,False,False
+Feb_Demand,Home & Kitchen,24911,False,False,False,True,False,False,False,False,True,False,False,False,False,False,False,False,False
+Feb_Demand,Toys,25312,False,False,False,False,True,False,False,False,True,False,False,False,False,False,False,False,False
+Jan_Demand,Apparel,117009,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False
+Jan_Demand,Electronics,51897,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False
+Jan_Demand,Grocery,1199093,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False
+Jan_Demand,Home & Kitchen,24444,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False,False,False
+Jan_Demand,Toys,26072,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False,False,False
+Jul_Demand,Apparel,111528,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False
+Jul_Demand,Electronics,52227,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False
+Jul_Demand,Grocery,1196798,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False
+Jul_Demand,Home & Kitchen,24484,False,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False
+Jul_Demand,Toys,25521,False,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False,False
+Jun_Demand,Apparel,118922,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+Jun_Demand,Electronics,52151,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+Jun_Demand,Grocery,1191304,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+Jun_Demand,Home & Kitchen,25056,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False
+Jun_Demand,Toys,25420,False,False,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False
+Mar_Demand,Apparel,119780,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False
+Mar_Demand,Electronics,51947,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False
+Mar_Demand,Grocery,1199559,False,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False
+Mar_Demand,Home & Kitchen,24553,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False
+Mar_Demand,Toys,25400,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False
+May_Demand,Apparel,115961,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False
+May_Demand,Electronics,52086,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False
+May_Demand,Grocery,1193236,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False
+May_Demand,Home & Kitchen,24660,False,False,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False
+May_Demand,Toys,25819,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False
+Nov_Demand,Apparel,120102,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False
+Nov_Demand,Electronics,52406,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False
+Nov_Demand,Grocery,1190949,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False
+Nov_Demand,Home & Kitchen,24684,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False
+Nov_Demand,Toys,25281,False,False,False,False,True,False,False,False,False,False,False,False,False,False,True,False,False
+Oct_Demand,Apparel,118380,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False
+Oct_Demand,Electronics,51961,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False
+Oct_Demand,Grocery,1191018,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False
+Oct_Demand,Home & Kitchen,24768,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False
+Oct_Demand,Toys,25573,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False
+Sep_Demand,Apparel,117454,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True
+Sep_Demand,Electronics,52308,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True
+Sep_Demand,Grocery,1190849,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True
+Sep_Demand,Home & Kitchen,24769,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True
+Sep_Demand,Toys,25729,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True
