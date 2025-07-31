@@ -65,5 +65,9 @@ By forecasting demand:
 
 ---
 
-## 📁 Project Structure
+## ## 📬 Connect with Me
+
+**Rebecca Morolong**  
+📧 [LinkedIn](https://www.linkedin.com/in/rebecca-morolong)  
+💼 Passionate about turning messy data into meaningful solutions!
 
